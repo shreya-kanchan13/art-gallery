@@ -38,7 +38,7 @@ jobs:
         
     - name: Run Streamlit app
       run: |
-           streamlit run app.py
+           python streamlit run app.py
   
 
       
